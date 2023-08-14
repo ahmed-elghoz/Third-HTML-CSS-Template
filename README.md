@@ -2,7 +2,7 @@
 
 Demo
 
-[https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/](https://ahmed-elghoz.github.io/Third-HTML-CSS-Template/)
+https://ahmed-elghoz.github.io/Third-HTML-CSS-Template/
 
 Learn How To Create The Design
 
